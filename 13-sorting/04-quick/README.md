@@ -1,2 +1,0 @@
-![](quick.png)
-![](sorting.png)
