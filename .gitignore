@@ -1,0 +1,19 @@
+# Build artifacts
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.o
+*.out
+a.out
+
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.tlog
+*.recipe
+*.lastbuildstate
